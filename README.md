@@ -1,2 +1,2 @@
 # Market-Models
-While interning at Macro Intelligence 2 Partners, I developed a number of Bloomberg API integrated Python programmed models to predict market movements and assist trading strategies
+While interning at Macro Intelligence 2 Partners, a macroeconomic and financial market research firm, I developed a number of Bloomberg API integrated Python  models which predict market movements and assist trading strategies. All of these programs will require a connection to a Bloomberg Terminal and the associated API software downloads. Additionally, some of these programs will need the relevant module installs. Finally, note that some of these programs contain user-defined functions which can be found in the 'Methods' folder.
